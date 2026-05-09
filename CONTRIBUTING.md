@@ -11,7 +11,7 @@ This project is a monorepo managed by [Turborepo](https://turbo.build/repo). It 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ This project is a monorepo managed by [Turborepo](https://turbo.build/repo). It 
    pip install -r requirements.txt
    ```
 
-### 🗝️ Environment Variables
+### Environment Variables
 
 You'll need to set up environment variables for the components you're working on.
 
@@ -57,7 +57,7 @@ Create a `.env` file with:
 
 ---
 
-## 🛠️ Development Workflow
+## Development Workflow
 
 ### Running the Full Stack
 From the root directory:
@@ -73,7 +73,7 @@ This will start the GitHub App, Dashboard, and Analysis Engine simultaneously us
 
 ---
 
-## 📜 Coding Standards
+## Coding Standards
 
 ### TypeScript (Apps)
 - Use functional components and hooks for the dashboard.
@@ -87,7 +87,7 @@ This will start the GitHub App, Dashboard, and Analysis Engine simultaneously us
 
 ---
 
-## 🤝 Pull Request Process
+## Pull Request Process
 
 1. **Create a Branch**: Use descriptive names like `feat/new-detector` or `fix/webhook-crash`.
 2. **Commit Often**: Small, atomic commits are preferred.
@@ -96,7 +96,7 @@ This will start the GitHub App, Dashboard, and Analysis Engine simultaneously us
 
 ---
 
-## 🛡️ Trust and Safety
+## Trust and Safety
 
 As this is a project focused on trust, we expect all contributors to:
 - Be respectful and professional.
@@ -105,6 +105,6 @@ As this is a project focused on trust, we expect all contributors to:
 
 ---
 
-## 📄 License
+## License
 
 By contributing to AI Slop Guardian, you agree that your contributions will be licensed under its ISC License.
